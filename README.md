@@ -37,7 +37,7 @@
 ###
 
 <div align="left">
-  <img src="./icons/vue-js_icon.svg" height="40" alt="vue logo"  />
+  <img src="./icons/vue-js_icon.svg" height="50" alt="vue logo"  />
   <img width="12" />
   <img src="./icons/javascript_icon.svg" height="40" alt="javascript logo"  />
   <img width="12" />
