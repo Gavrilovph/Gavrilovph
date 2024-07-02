@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="./assets/hereweare.webp"  />
+  <img height="300" width="600" src="./assets/smokingguy.webp"  />
 </div>
 
 ###
