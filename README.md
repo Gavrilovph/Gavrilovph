@@ -39,9 +39,9 @@
 <div align="left">
   <img src="./icons/vue-js_icon.svg" height="45" alt="vue logo"  />
   <img width="12" />
-  <img src="./icons/javascript_icon.svg" height="40" alt="javascript logo"  />
+  <img src="./icons/javascript_icon.svg" height="45" alt="javascript logo"  />
   <img width="12" />
-  <img src="./icons/typescript_icon.svg" height="40" alt="javascript logo"  />
+  <img src="./icons/typescript_icon.svg" height="45" alt="javascript logo"  />
   <img width="12" />
   <img src="./icons/html_icon.svg" height="40" alt="html5 logo"  />
   <img width="12" />
