@@ -37,15 +37,17 @@
 ###
 
 <div align="left">
-  <img src="./icons/icons8-vue-js.svg" height="40" alt="vue logo"  />
+  <img src="./icons/vue-js_icon.svg" height="40" alt="vue logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="./icons/javascript_icon.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="./icons/typescript_icon.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="./icons/html_icon.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="./icons/css_icon.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="./icons/vite_icon.svg" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
   <img width="12" />
