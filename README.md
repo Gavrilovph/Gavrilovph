@@ -60,13 +60,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gavrilovvladimir&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gavrilovph&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
 
 ###
 
-<div align="center">
+*/ <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gavrilovvladimir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="220" alt="languages graph"  />
-</div>
+</div> /*
 
 ###
