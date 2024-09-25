@@ -60,13 +60,13 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gavrilovph&theme=highcontrast&exclude_days=Sun%2CMon" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gavrilovph&theme=highcontrast&exclude_days=Sun%2CMon&card_width=800" alt="GitHub Streak" /></a>
 </div>
 
 ###
 
-*/ <div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gavrilovvladimir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="220" alt="languages graph"  />
-</div> /*
+</div>
 
 ###
