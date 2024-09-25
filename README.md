@@ -60,7 +60,7 @@
 ###
 
 <div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gavrilovph&theme=dark&background=000000)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gavrilovph&theme=highcontrast&exclude_days=Sun%2CMon" alt="GitHub Streak" /></a>
 </div>
 
 ###
