@@ -22,10 +22,6 @@
 
 ###
 
-<p align="left">Работаю во фронтенде, люблю делать удобные и быстрые интерфейсы. Сейчас тружусь в команде мобильного контент-провайдера, где занимаюсь веб-приложениями и не только.
-
-Ценю чистый код, здравый смысл и командную работу. Нравится, когда всё работает не только правильно, но и красиво. Если можно что-то упростить или улучшить — обязательно попробую. Не боюсь сложных задач и всегда стараюсь прокачиваться, хотя бы понемногу, каждый день. Спасибо что заглянул в мой профиль! </p>
-
 <p align="left"> I’m a frontend developer who enjoys building clean, fast, and user-friendly interfaces. Right now, I work in a mobile content provider company, mostly focused on web apps (and a bit more).
 
 I care about clean code, common sense, and good teamwork. I like it when things not only work well, but look good too. If there’s a chance to simplify or improve something — I’m on it. I'm glad to see you here! </p>
